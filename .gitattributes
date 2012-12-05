@@ -1,1 +1,24 @@
 * text=auto !eol
+/.classpath -text
+/.project -text
+META-INF/MANIFEST.MF -text
+META-INF/maven/org.gcube.core/common-scope-maps/pom.properties -text
+META-INF/maven/org.gcube.core/common-scope-maps/pom.xml -text
+distro/INSTALL -text
+distro/LICENSE -text
+distro/MAINTAINERS -text
+distro/README -text
+distro/changelog.xml -text
+distro/descriptor.xml -text
+distro/profile.xml -text
+distro/svnpath.txt -text
+/pom.xml -text
+src/main/resources/d4science.servicemap -text
+src/main/resources/devnext.servicemap -text
+src/main/resources/devsec.servicemap -text
+src/main/resources/ecosystem.servicemap -text
+src/main/resources/farm.servicemap -text
+src/main/resources/gcube.servicemap -text
+src/main/resources/gcubeapps.servicemap -text
+src/main/resources/openbio.servicemap -text
+src/main/resources/testing.servicemap -text
