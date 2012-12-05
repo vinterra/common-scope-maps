@@ -1,4 +1,4 @@
-<service-map scope='/gcube/devsec' version="${project.version}" version="${project.version}">
+<service-map scope='/gcube/devsec' version="${project.version}">
 	<services>
 		<service name='XQueryAccessService' endpoint='http://dlib01.isti.cnr.it:8080/wsrf/services/gcube/informationsystem/collector/XQueryAccess' />
 	</services>
