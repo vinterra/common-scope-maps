@@ -21,5 +21,6 @@ src/main/resources/farm.servicemap -text
 src/main/resources/gcube.servicemap -text
 src/main/resources/gcubeapps.servicemap -text
 src/main/resources/openbio.servicemap -text
+src/main/resources/securevo.servicemap -text
 src/main/resources/testing.servicemap -text
 src/main/resources/vo1.servicemap -text
