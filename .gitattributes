@@ -13,6 +13,7 @@ distro/descriptor.xml -text
 distro/profile.xml -text
 distro/svnpath.txt -text
 /pom.xml -text
+src/main/resources/cnr.servicemap -text
 src/main/resources/d4science.servicemap -text
 src/main/resources/devnext.servicemap -text
 src/main/resources/devsec.servicemap -text
@@ -20,6 +21,7 @@ src/main/resources/ecosystem.servicemap -text
 src/main/resources/farm.servicemap -text
 src/main/resources/gcube.servicemap -text
 src/main/resources/gcubeapps.servicemap -text
+src/main/resources/isti.servicemap -text
 src/main/resources/openbio.servicemap -text
 src/main/resources/securevo.servicemap -text
 src/main/resources/testing.servicemap -text
