@@ -13,6 +13,8 @@ distro/descriptor.xml -text
 distro/profile.xml -text
 distro/svnpath.txt -text
 /pom.xml -text
+src/main/java/org/gcube/common/scope/maps/ServiceMapScanner.java -text
+src/main/java/org/gcube/common/scope/maps/ServiceMaps.java -text
 src/main/resources/cnr.servicemap -text
 src/main/resources/d4science.servicemap -text
 src/main/resources/devnext.servicemap -text
@@ -26,3 +28,4 @@ src/main/resources/openbio.servicemap -text
 src/main/resources/securevo.servicemap -text
 src/main/resources/testing.servicemap -text
 src/main/resources/vo1.servicemap -text
+src/test/java/org/gcube/common/scope/maps/ServiceMapTest.java -text
