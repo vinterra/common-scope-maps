@@ -1,8 +1,11 @@
 <ReleaseNotes>
-	<Changeset component="${build.finalName}" date="2013-01-11">
+	<Changeset component="org.gcube.common.common-scope-maps.1-0-0" date="2013-01-11">
 		<Change>First Release</Change>
 	</Changeset>
-	<Changeset component="${build.finalName}" date="2014-06-06">
+	<Changeset component="org.gcube.common.common-scope-maps.1-0-1" date="2014-06-06">
 		<Change>added maps for Social ISTI</Change>
+	</Changeset>
+	<Changeset component="org.gcube.common.common-scope-maps.2-0-0" date="2014-06-06">
+		<Change>moved to next major version for compatibility problem</Change>
 	</Changeset>
 </ReleaseNotes>
