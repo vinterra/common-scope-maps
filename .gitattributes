@@ -4,14 +4,11 @@
 META-INF/MANIFEST.MF -text
 META-INF/maven/org.gcube.core/common-scope-maps/pom.properties -text
 META-INF/maven/org.gcube.core/common-scope-maps/pom.xml -text
-distro/INSTALL -text
 distro/LICENSE -text
-distro/MAINTAINERS -text
 distro/README -text
 distro/changelog.xml -text
 distro/descriptor.xml -text
 distro/profile.xml -text
-distro/svnpath.txt -text
 /pom.xml -text
 src/main/resources/cnr.servicemap -text
 src/main/resources/d4science.servicemap -text
