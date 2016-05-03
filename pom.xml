@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>org.gcube.core</groupId>
 	<artifactId>common-scope-maps</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.4-SNAPSHOT</version>
 	<name>Common ScopeMaps</name>
 
 	<scm>
