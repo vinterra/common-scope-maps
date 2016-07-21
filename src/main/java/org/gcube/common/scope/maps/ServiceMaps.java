@@ -1,11 +1,10 @@
 package org.gcube.common.scope.maps;
 
-import static org.gcube.common.scope.impl.ScopeBean.Type.VRE;
-
 import java.util.Map;
 
 import org.gcube.common.scope.api.ServiceMap;
-import org.gcube.common.scope.impl.ScopeBean;
+import org.gcube.common.scope.impl.ContextBean;
+import org.gcube.common.scope.impl.ContextBean.Type;
 
 /** * 
  * <p>
@@ -35,9 +34,9 @@ public class ServiceMaps {
 		if (context==null)
 			throw new IllegalStateException("current context is undefined");
 		
-		ScopeBean bean = new ScopeBean(context);
+		ContextBean bean = new ContextBean(context);
 		
-		if(bean.is(VRE))
+		if(bean.is(Type.VRE))
 			context = bean.enclosingScope().toString();
 
 		ServiceMap map = maps.get(context);
