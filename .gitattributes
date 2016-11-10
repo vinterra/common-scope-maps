@@ -11,6 +11,7 @@ distro/descriptor.xml -text
 distro/profile.xml -text
 /pom.xml -text
 src/main/resources/cnr.servicemap -text
+src/main/resources/d4research.servicemap -text
 src/main/resources/d4science.servicemap -text
 src/main/resources/devnext.servicemap -text
 src/main/resources/devsec.servicemap -text
