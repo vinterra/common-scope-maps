@@ -15,15 +15,10 @@ src/main/resources/d4research.servicemap -text
 src/main/resources/d4science.servicemap -text
 src/main/resources/devnext.servicemap -text
 src/main/resources/devsec.servicemap -text
-src/main/resources/ecosystem.servicemap -text
 src/main/resources/farm.servicemap -text
 src/main/resources/gcube.servicemap -text
 src/main/resources/gcubeapps.servicemap -text
 src/main/resources/isti.servicemap -text
-src/main/resources/openbio.servicemap -text
 src/main/resources/preprod.servicemap -text
-src/main/resources/securevo.servicemap -text
 src/main/resources/smartarea.servicemap -text
 src/main/resources/sobigdata.servicemap -text
-src/main/resources/testing.servicemap -text
-src/main/resources/vo1.servicemap -text
