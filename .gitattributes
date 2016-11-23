@@ -15,6 +15,7 @@ src/main/resources/d4research.servicemap -text
 src/main/resources/d4science.servicemap -text
 src/main/resources/devnext.servicemap -text
 src/main/resources/devsec.servicemap -text
+src/main/resources/edison.servicemap -text
 src/main/resources/farm.servicemap -text
 src/main/resources/gcube.servicemap -text
 src/main/resources/gcubeapps.servicemap -text
