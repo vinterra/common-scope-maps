@@ -20,6 +20,7 @@ src/main/resources/farm.servicemap -text
 src/main/resources/gcube.servicemap -text
 src/main/resources/gcubeapps.servicemap -text
 src/main/resources/isti.servicemap -text
+src/main/resources/openaire.servicemap -text
 src/main/resources/preprod.servicemap -text
 src/main/resources/smartarea.servicemap -text
 src/main/resources/sobigdata.servicemap -text
